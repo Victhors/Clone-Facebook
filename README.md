@@ -2,9 +2,6 @@ Declaração de Finalidade:
 
 Este projeto tem como objetivo exclusivamente fins educacionais e de pesquisa de segurança cibernética. Todas as atividades realizadas aqui são conduzidas de acordo com os princípios de "hacker ético", com o objetivo de aumentar a conscientização sobre ameaças cibernéticas e testar a segurança de sistemas com permissão explícita. Qualquer uso indevido ou ilegal das informações ou ferramentas aqui apresentadas é estritamente proibido e desencorajado. Respeite todas as leis e regulamentos locais e obtenha a devida autorização antes de realizar atividades de segurança cibernética.
 
-Ao adicionar essa declaração, você ajuda a garantir que as intenções do seu projeto sejam compreendidas de maneira apropriada e responsável.
-
-
 Ferramentas Utilizadas
 
     Kali Linux
